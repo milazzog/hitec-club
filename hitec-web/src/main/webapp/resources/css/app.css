@@ -1,0 +1,13 @@
+body, body .ui-widget {
+    font-size: 0.9em !important;
+    font-weight: normal !important;;
+}
+
+body .ui-inputfield, body .ui-button {
+    height: 25px;
+    border-radius: 0;
+}
+
+.padding-v10{
+    padding-bottom: 10px;
+}
