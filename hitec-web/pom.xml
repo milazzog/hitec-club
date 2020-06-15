@@ -24,7 +24,7 @@
 
         <dep.jsf>2.2.18</dep.jsf>
         <dep.jstl>1.2</dep.jstl>
-        <dep.spring.security>5.1.5.RELEASE</dep.spring.security>
+        <dep.spring.security>5.3.3.RELEASE</dep.spring.security>
         <dep.servlet>4.0.1</dep.servlet>
         <dep.jsp>2.2</dep.jsp>
         <dep.el>2.2</dep.el>
