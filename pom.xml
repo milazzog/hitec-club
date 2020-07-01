@@ -18,7 +18,7 @@
         <dep.commons.lang3>3.9</dep.commons.lang3>
         <dep.commons.collections4>4.4</dep.commons.collections4>
         <dep.commons.io>2.6</dep.commons.io>
-        <dep.log4j2>2.12.0</dep.log4j2>
+        <dep.log4j2>2.13.3</dep.log4j2>
         <dep.spring>5.1.8.RELEASE</dep.spring>
         <dep.lombok>1.18.8</dep.lombok>
         <dep.junit>4.11</dep.junit>
